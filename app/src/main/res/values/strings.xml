@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WhoWroteIt</string>
+    <string name="enterName">Zadejte jméno knihy</string>
+    <string name="nameHint">Sleeping beauties</string>
+    <string name="btn_search">Vyhledat</string>
+    <string name="nenalezeno">No results</string>
+</resources>
